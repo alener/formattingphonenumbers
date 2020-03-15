@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/alejandro/cellnormenv/bin/python"
+    "python.pythonPath": "/home/alejandro/cellnormenv/bin/python",
+    "python.formatting.provider": "black"
 }

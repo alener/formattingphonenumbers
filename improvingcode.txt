@@ -1,0 +1,24 @@
+
+
+          improving code 14,15/3
+
+
+1. reorganize directories  ...done
+
+2. make a readme with text enunciate   easy  done
+
+3. check if generatedata.py running...check to change permissins write for another user    done
+
+4. check if everithing works with a new structure directory       done
+
+5. change all for with map...if it posible      easy-intermediate
+
+6. check the names of variables and functions adjust to pep8 and some other related issues     easy
+
+7. make some tests in tests directory     intermediatte-hard
+
+8. try to change some hardcode parts      easy-intermediate
+
+9. add pdf and/or docx files  (if there is time)    
+
+10. maybe improve .vscode file (if there is time)  make it with 6
